@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 120px;
+    background-color:#05102A;
+}
+
+header img{
+    height: 120px;
+    width: 120px;
+}
+
+header a.ancla{
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+    float: right;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+#Conocenos{
+    padding-right:40px;
+}
+
+
